@@ -1,5 +1,5 @@
 ---
-title: aa
-slug: aa
+title: miranda1
+slug: miranda1
 ---
-aa
+miranda content
