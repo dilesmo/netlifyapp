@@ -1,7 +1,7 @@
 ---
-title: title 3
+title: post 3
 date: 2020-11-23T09:16:25.815Z
-slug: title-3
+slug: post2-manual
 author: miranda1-manual
 ---
 fasd
