@@ -6,4 +6,4 @@ author: miranda1-manual
 related_posts:
   - post1-manual
 ---
-content post 2
+content post 2 123
